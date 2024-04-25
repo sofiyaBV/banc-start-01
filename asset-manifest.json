@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/banc-start-01/static/css/main.27418bf9.css",
-    "main.js": "/banc-start-01/static/js/main.87ee244d.js",
+    "main.js": "/banc-start-01/static/js/main.96ca8ef5.js",
     "static/media/Profil_photo.jpg": "/banc-start-01/static/media/Profil_photo.284249979a6ef8e88f41.jpg",
     "static/media/logo_01.png": "/banc-start-01/static/media/logo_01.a5111c403f44afabb471.png",
     "static/media/exchange_svg.svg": "/banc-start-01/static/media/exchange_svg.25d824b57e5c5a753432296807e7285d.svg",
     "index.html": "/banc-start-01/index.html",
     "main.27418bf9.css.map": "/banc-start-01/static/css/main.27418bf9.css.map",
-    "main.87ee244d.js.map": "/banc-start-01/static/js/main.87ee244d.js.map"
+    "main.96ca8ef5.js.map": "/banc-start-01/static/js/main.96ca8ef5.js.map"
   },
   "entrypoints": [
     "static/css/main.27418bf9.css",
-    "static/js/main.87ee244d.js"
+    "static/js/main.96ca8ef5.js"
   ]
 }
