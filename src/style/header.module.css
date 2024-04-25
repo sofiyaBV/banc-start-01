@@ -1,0 +1,17 @@
+.general_container{
+    display: flex;
+    align-items: center;
+    width: 10vw;
+}
+.general_container img{
+    width:1.5vw;
+    height:1.5vw;
+    padding-right: 10px;
+}
+.general_container h1{
+    font-size: 150%;
+}
+.logo {
+  width: 50%;
+  margin-bottom: 5vh;
+}

@@ -1,0 +1,23 @@
+.general_container{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top:80vh;
+}
+.profil_photo{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.arrow_photo{
+    width: 1vw;
+    height: 1vw;
+}
+.info_user_container{
+    margin-left: 20px;
+    width: 70%;
+}
+.info_user_container p
+{
+margin-top: -20px;
+}
